@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use causal-imputation-test, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install causal-imputation-test
+$ pip install causal-imputation-test
 
 Test the performance of causal missing-data imputation
 ----------------
@@ -18,8 +18,6 @@ Test the performance of causal missing-data imputation
 Two test
 
 .. function:: oneshot.test(Z, X, M, Y, G, L = 10000, verbose = False)
-
-
 
 .. function:: retrain.test(Z, X, M, Y, G, L = 10000, verbose = False)
 

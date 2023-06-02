@@ -1,7 +1,7 @@
-Welcome to causal-imputation-test documentation!
+Welcome to RIMO (Randomization Inference with Missing Outcomes)!
 ===================================
 
-**causal-imputation-test**  is a Python library for test the performance of causal missing data 
+**RIMO**  is a library for testing the performance of causal missing data 
 imputation performance 
 
 Check out the :doc:`usage` section for further information, including
